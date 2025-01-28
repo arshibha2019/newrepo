@@ -3,9 +3,18 @@ terraform{
       aws = {
         source = "harshicorp/aws"
         version = "~> 4.0"
+<<<<<<< Updated upstream
       }
     }
     
+=======
+    
+      }
+    }
+
+    
+
+>>>>>>> Stashed changes
 }
 
 provider "aws"{
